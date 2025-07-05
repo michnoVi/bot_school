@@ -1,5 +1,6 @@
 # bot_school
 https://t.me/NeotPomDet_bot
+**иллюстрация к проекту **(https://github.com/michnoVi/bot_school/blob/main/БОТ.pdf)
 # ИИ-ассистент для курса  
 ## «Школа для родителей по оказанию неотложной помощи детям на догоспитальном этапе»
 
